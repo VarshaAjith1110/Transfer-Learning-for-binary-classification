@@ -294,8 +294,10 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/b60d6cb2-0dbc-41da-94ad-c78e90f7f02f)
 
 </br>
+
 ### Conclusion
 ![image](https://github.com/user-attachments/assets/76cb2dbf-033c-4bda-8d15-df9108aa3657)
 </br>
+
 ## RESULT
 Thus, transfer learning for classifying horses and human is implemented successfully
